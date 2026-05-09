@@ -7,7 +7,9 @@
     <LANGU>E</LANGU>
     <DESCRIPT>Integration test class for abapgit-agent unit command</DESCRIPT>
     <STATE>1</STATE>
+    <FIXPT>X</FIXPT>
     <UNICODE>X</UNICODE>
+    <WITH_UNIT_TESTS>X</WITH_UNIT_TESTS>
    </VSEOCLASS>
   </asx:values>
  </asx:abap>
